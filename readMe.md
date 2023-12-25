@@ -44,3 +44,10 @@ cd ecom-backend
 npm install
 npm run dev
 ```
+
+## Admin User and Pass
+
+```bash
+Email: Admin@gmail.com
+Pass:Admin
+```
